@@ -1,6 +1,6 @@
 ## Covid Help Deskline
 
-| <MARQUEE style="color :green" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" >Those who are having symptoms or had been in close contacts with any covid positive are requested to get their test done.</MARQUEE> | 
+| <MARQUEE style="color :red" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" >Those who are having symptoms or had been in close contacts with any covid positive are requested to get their test done.</MARQUEE> | 
 
 
 <strong style="color :red; "></strong> <br>
