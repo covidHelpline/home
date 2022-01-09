@@ -26,6 +26,7 @@
 
 |  Name                      | Cost                    |   Contact number                           |
 | --------------             | -------------           |   ---------                                |
+| Atulaya Health Center      | Rs. 650                 | <a href = "tel:9779599499"> Call now </a>  |
 | Noble Diagnostic Center    | Rs. 700                 | <a href = "tel:8283023429"> Call now </a>  |
 | SRL Diagnostic Center      | Rs. 750                 | <a href = "tel:01724061122"> Call now </a> |
 | Medica lab phase 5         | Rs. 1200                | <a href = "tel:9780933181"> Call now </a>  |
