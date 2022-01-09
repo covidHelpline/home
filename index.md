@@ -27,7 +27,7 @@
 |  Name                      | Cost                    |   Contact number                           |
 | --------------             | -------------           |   ---------                                |
 | Noble Diagnostic Center    | Rs. 700                 | <a href = "tel:8283023429"> Call now </a>  |
-| SRL Diagnostic Center      | Rs. 750                 | <a href = "tel:01725002062"> Call now </a> |
+| SRL Diagnostic Center      | Rs. 750                 | <a href = "tel:01724061122"> Call now </a> |
 | Medica lab phase 5         | Rs. 1200                | <a href = "tel:9780933181"> Call now </a>  |
 | MAIN MOLECULAR LAB         | Rs. 2000                | <a href = "tel:8708669674"> Call now </a>  |
 
