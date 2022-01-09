@@ -33,7 +33,7 @@
 
 
 
-# General instructions for COVID +ve patients
+# General instructions for Home quarantine
 <ol>
   <li> Patient must isolate himself from other household members, stay in the identified room
 and away from other people in home, especially elderly and those with co-morbid
@@ -63,7 +63,7 @@ gloves.  </li>
   <li> Self-monitoring of blood oxygen saturation with a pulse oximeter for the patient is advised.
  </li>
 </ol>
-
+** As instructed by mohfw gov India . (https://www.mohfw.gov.in/pdf/RevisedHomeIsolationGuidelines05012022.pdf)
   
 ## Support
 
