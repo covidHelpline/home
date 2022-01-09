@@ -56,8 +56,7 @@ patient or the caregiver duly following required precautions such as use of mask
 gloves.  </li>
   <li> Self-monitoring of blood oxygen saturation with a pulse oximeter for the patient is advised.
  </li>
-
-
+</ol>
 
   
 ## Support
