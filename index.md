@@ -91,5 +91,19 @@ Feel free to fill up the form =
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
-
+<div class="section light">
+  <div class="center" id="footer">
+    <p class="social-links mb-4">
+      <a class="secondaryLink" title="Formspree on Twitter" href="https://twitter.com/formspree" target="_blank">Twitter</a> |
+      <a class="secondaryLink" title="Formspree on Facebook" href="https://facebook.com/formspree" target="_blank">Facebook</a> |
+      <a class="secondaryLink" title="Formspree on GitHub" href="https://github.com/formspree" target="_blank">GitHub</a>
+    </p>
+    <small class="text-gray-600">
+      &copy; 2022 Formspree, Inc.<br>
+      Please check out our <a class="primaryLink text-xs" title="Visit the Formspree Help Site" href="https://help.formspree.io" target="_blank">Help Site</a>,
+      <a class="primaryLink text-xs" title="Formspree Terms of Use" href="https://formspree.io/legal/terms-of-service" target="_blank">Terms of Use</a>, and
+      <a class="primaryLink text-xs" title="Formspree Privacy Policy" href="https://formspree.io/legal/privacy-policy" target="_blank">Privacy Policy</a>.
+    </small>
+  </div>
+</div>
 
