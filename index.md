@@ -84,8 +84,10 @@ Feel free to fill up the form =
   <br>
   <label>
     Your message:
+    <br>
     <textarea name="message"></textarea>
   </label>
+  <br>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
